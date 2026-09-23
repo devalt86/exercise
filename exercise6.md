@@ -1,1 +1,0 @@
-For this exercise, you will be creating a new file, adding it, renaming it, and then deleting it.
